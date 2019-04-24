@@ -32,7 +32,6 @@
         headers: {
           'Content-type': 'application/json'
         },
-        body: JSON.stringify(data)
       });
       return await 'Resorce deleted'
     }

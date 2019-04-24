@@ -61,7 +61,7 @@
 // }
 // console.log(hello('Test'));
 
-// // function expresion
+// // function expression
 // var myhello = function(name){
 //     return `hello ${name}`;
 // }

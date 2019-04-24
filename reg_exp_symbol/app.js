@@ -24,7 +24,7 @@ re = /[0-9][0-9]ray/;      // Match any digit
 
 // Braces {} - Quantifiers
 re = /Hel{2}o/i;      // Must occur exactly {m} amount of times
-re = /Hel{2,4}o/i;      // Must occur exactly {m} amount of times
+re = /Hel{2,4}o/i;      // Must occur between {m, n} amount of times
 re = /Hel{2,}o/i;      // Must occur at least {m} times
 
 // Paretheses () - Grouping
